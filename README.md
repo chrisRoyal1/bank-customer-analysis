@@ -31,11 +31,11 @@ Excel for data cleaning, pivot tables and formulation, SQLite via DB Browser for
 
  # Data Cleaning Process
    ## Perfomed check:
-    Check      Findings   Action Taken
-  Null checks - 0 _   None  taken
-  Duplicates -  0 -    None taken
-  Text abnormalities- None - None taken
-  Data consistency- okay - None taken
+| Check | Findings | Action Taken |
+|-------|----------|--------------|
+| Null checks | 0 | None taken |
+| Duplicates | 0 | None taken |
+
   ## Additional columns
   1. Loyalty -- using monthly transactions
     Below 15 monthly transactions -Low engagement 
