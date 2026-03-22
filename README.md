@@ -89,5 +89,6 @@ Recommendation: Shift some marketing budget to a Mombasa premium customers campa
 # Dashboard
 https://public.tableau.com/app/profile/christopher.john7582/viz/BankRiskCustomerValuePerformanceDashboard/BankcustomersAnalysi?publish=yes
 
+![Bank Risk Dashboard]
 
   
